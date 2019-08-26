@@ -1,7 +1,7 @@
 # Play UWP Styles
 
 ## Collection
-* [Rate Star Animation](/RateAnimation1)
+* [Rate Star Animation](/RateAnimation1/MainPage.xaml)
     * ![uwp-rate-animation](https://github.com/omansak/play-uwp-styles/blob/master/Assests/XAML%20Star.gif)
 ## Usage
 The XAML Resource dictionary containing the style will be given here.
